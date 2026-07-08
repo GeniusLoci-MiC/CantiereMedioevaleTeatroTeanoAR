@@ -172,7 +172,7 @@
         }
       },
       "ui": {
-        "text": "tocca lo schermo per visualizzare nella realtà la ricostruzione della macchina di sollevamento del cantiere medioevale",
+        "text": "tocca lo schermo per visualizzare la ricostruzione della macchina di sollevamento del cantiere medioevale",
         "width": "100%",
         "height": 71,
         "type": "overlay",
@@ -218,7 +218,7 @@
         }
       },
       "ui": {
-        "text": "tocca lo schermo per visualizzare nella realtà la ricostruzione della macchina di sollevamento del cantiere medioevale",
+        "text": "tocca lo schermo per visualizzare la ricostruzione della macchina di sollevamento del cantiere medioevale",
         "width": "100%",
         "height": 72,
         "type": "overlay",
@@ -428,11 +428,17 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/gru_anim_11.glb"
+          "asset": "assets/gru_anim_12.glb"
         },
         "animationClip": "Animation",
-        "loop": true,
-        "paused": false
+        "loop": true
+      },
+      "audio": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/CantiereMedioevaleXR_35.mp3"
+        },
+        "loop": true
       }
     },
     "a892e0ce-9e87-4ac7-b17d-2b8458e29b8e": {
