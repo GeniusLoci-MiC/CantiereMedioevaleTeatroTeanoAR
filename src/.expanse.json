@@ -403,9 +403,9 @@
         1
       ],
       "scale": [
-        9.999999999999986,
-        9.999999999999986,
-        9.999999999999986
+        2.499999999999991,
+        2.499999999999991,
+        2.499999999999991
       ],
       "parentId": "1d030da3-9e4b-4e85-a1fd-11b326d96840",
       "components": {
@@ -436,7 +436,7 @@
       "audio": {
         "src": {
           "type": "asset",
-          "asset": "assets/CantiereMedioevaleXR_35.mp3"
+          "asset": "assets/CantiereMedioevaleXR_35s_02.mp3"
         },
         "loop": true
       }
