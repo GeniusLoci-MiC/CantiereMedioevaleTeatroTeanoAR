@@ -262,9 +262,9 @@
       "material": null,
       "parentId": "904308fe-98f5-4c93-bf62-f39d50c6e602",
       "components": {
-        "2100d3e9-8fed-4773-bc39-6f2ca5042375": {
-          "id": "2100d3e9-8fed-4773-bc39-6f2ca5042375",
-          "name": "reset-button",
+        "18cf7dd9-9d4b-4d5f-b079-503abee0950c": {
+          "id": "18cf7dd9-9d4b-4d5f-b079-503abee0950c",
+          "name": "tap-to-reload-browser-page",
           "parameters": {}
         }
       },
